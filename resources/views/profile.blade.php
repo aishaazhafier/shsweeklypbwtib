@@ -7,5 +7,6 @@
         NIM : {{ $nim }} <br>
         Prodi : {{ $prodi }} <br>
     </P>
-    <img> src="images/" </img>
+    <img src="{{ asset('images/hirono2.png') }}" alt="Foto Profile" width="200">
+    <script src="js/alert.js"></script>
 @endsection
