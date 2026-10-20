@@ -9,4 +9,5 @@
         <p>{{$berita["konten"]}}</p>
     </div>
 
+        <a href="/berita">kembali</a>
 @endsection
